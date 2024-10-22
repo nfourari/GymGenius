@@ -75,10 +75,9 @@
 - **requirements.txt**: List of dependencies
 - **Deployment**: Flask server
 
-## AUTHORS: 
-```
-    Adryel Gainza,
-    Sebastian Menendez,
-    Isaiah William,
-    Noah Fourari
-```
+## AUTHORS:
+   Noah Fourari,
+   Adryel Gainza,
+   Sebastian Menendez, 
+   Isaiah William
+
