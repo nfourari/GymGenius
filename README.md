@@ -1,19 +1,6 @@
-2024 SHELLHACKS COMPETITION
-
-AUTHORS: 
-    Adryel Gainza,
-    Sebastian Menendez,
-    Isaiah William,
-    Noah Fourari
-
-ABOUT:
-Project developed during 2024 ShellHacks Hackathon at FIU
-Workout program with AI integration
-
-
 # GymGenius
 
-**GymGenius** is a full-stack AI-powered gym trainer that provides personalized gym advice and workout plans tailored to individual goals. The application allows users to create and export workout plans directly to Google Calendar in ICS format. GymGenius uses OpenAI's API to provide real-time gym suggestions based on user input, making it a smart companion for fitness enthusiasts.
+**GymGenius** was developed during 2024 ShellHacks Hackathon at FIU. It is a full-stack AI-powered gym trainer that provides personalized gym advice and workout plans tailored to individual goals. The application allows users to create and export workout plans directly to Google Calendar in ICS format. GymGenius uses OpenAI's API to provide real-time gym suggestions based on user input, making it a smart companion for fitness enthusiasts.
 
 ## Features
 
@@ -79,11 +66,17 @@ Workout program with AI integration
 
 ## Project Structure
 
-- **/static**: Contains static files (CSS, images, etc.)
-- **/templates**: HTML templates for the front end
-- **/app.py**: Main Flask application logic
-- **/models.py**: Database models for SQLAlchemy
-- **/routes.py**: Defines application routes
-- **/utils.py**: Helper functions
+- **static**: Contains static files (CSS, images, etc.)
+- **templates**: HTML templates for the front end
+- **app.py**: Main Flask application logic
+- **models.py**: Database models for SQLAlchemy
+- **routes.py**: Defines application routes
+- **utils.py**: Helper functions
 - **requirements.txt**: List of dependencies
-- **/Deployment**: Flask server
+- **Deployment**: Flask server
+
+# AUTHORS: 
+    Adryel Gainza,
+    Sebastian Menendez,
+    Isaiah William,
+    Noah Fourari
