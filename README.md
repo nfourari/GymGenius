@@ -76,7 +76,9 @@
 - **Deployment**: Flask server
 
 ## AUTHORS: 
-    **Adryel Gainza,
+```
+    Adryel Gainza,
     Sebastian Menendez,
     Isaiah William,
-    Noah Fourari**
+    Noah Fourari
+```
